@@ -1,4 +1,4 @@
 variable "key_pair" {
   type = string
-  default = "showmik-skylab-mac"
+  default = "keypair-for-N.Virginia-us-east-1"
 }
